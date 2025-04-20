@@ -185,3 +185,11 @@ This project is open source and available under the MIT License.
 ## Authors
 
 - [@Priyanshu Singh](https://www.github.com/dev-priyanshu15)
+
+## Contributors
+
+Thanks to the following amazing contributors for their support and collaboration:
+
+- [@Nikhil N Nadig](https://github.com/Nikhil-N-Nadig) – UI improvements, bug fixes, and feature enhancements
+
+> Want to contribute? Feel free to fork, commit, and submit a pull request!
